@@ -13,7 +13,7 @@
 
 Диаграмма:
 
-![img.png](img.png)
+![img.png](files/img.png)
 
 Применимость:
 
