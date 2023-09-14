@@ -6,7 +6,7 @@ using namespace std;
 class Product {
 public:
     static shared_ptr<Product> instance() {
-        static shared_ptr<Product> ptr(new Product());
+        static shared_ptr<Product> ptr(new Product);
         return ptr;
     }
     void run() {cout << "Run method" << endl;}

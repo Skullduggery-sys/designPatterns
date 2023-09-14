@@ -39,7 +39,7 @@ public:
 # pragma region Methods
 void ConAdapter::request()
 {
-    cout << "Adapter: ";
+    cout << "adapter: ";
 
     if (adaptee)
     {
